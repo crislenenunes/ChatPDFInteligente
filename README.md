@@ -2,6 +2,9 @@
 
 Uma aplicação de leitura inteligente de PDFs com IA, criada com LangChain, Gradio e modelos de linguagem de código aberto. Com o **ChatPDF Inteligente**, você pode **fazer perguntas sobre qualquer documento PDF** e receber respostas claras, rápidas e baseadas no conteúdo.
 
+🔗 Acesse o app no Hugging Face Spaces: [ChatPDF Inteligente no Hugging Face](https://huggingface.co/spaces/Crislene/spacedacriz)
+
+
 ---
 
 ## 🚀 Funcionalidades
